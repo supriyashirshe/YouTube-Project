@@ -51,10 +51,10 @@ cd youtube-channel-analysis
 Follow the steps mentioned in the "Running the Project" section to collect data, conduct analysis, deploy the Streamlit app, and visualize dashboards using Tableau.
 
 Contributors:
+Supriya Shirshe
 Girish Borkar
 Mayuresh Arobekar
 Nikhil Patil
-Supriya Shirshe
 Pradnya Yasade
 Yash Marje
 
